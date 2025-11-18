@@ -1,0 +1,8 @@
+matplotlib==3.5.3
+matplotlib-inline==0.1.7
+scipy==1.7.3
+m3u8==6.0.0
+git+https://github.com/kkroening/ffmpeg-python
+orcasound_noise@git+https://github.com/orcasound/ambient-sound-analysis
+kaleido==1.2.0
+ipykernel==6.17.1
