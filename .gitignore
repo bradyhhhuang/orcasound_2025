@@ -1,0 +1,4 @@
+.env
+.venv
+Icon?
+__pycache__/
