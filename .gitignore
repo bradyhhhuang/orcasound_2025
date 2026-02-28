@@ -2,3 +2,5 @@
 .venv
 Icon?
 __pycache__/
+*.wav
+wav_files/
